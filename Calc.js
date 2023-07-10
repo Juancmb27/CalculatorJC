@@ -1,3 +1,6 @@
+//dark mode//
+
+
 const botonNumeros = document.getElementsByName("data-number");
 
 const botonOperaciones = document.getElementsByName("data-opera");
